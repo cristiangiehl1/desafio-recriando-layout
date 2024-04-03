@@ -30,7 +30,7 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 <br>
 
 <p align="center">
-  <img alt="desafio recriando layout" src="layout-desafio.png" width="100%">
+  <img alt="desafio recriando layout" src="github/layout-desafio.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout desejado do desafio através [DESSE LINK]([https://www.figma.com/file/BiNZdeWaBS8aBI9N86cBAh/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=BLsvuBf63twO8cDn-0](https://www.figma.com/file/mcrmvyN3l9CNcuRRY6ivi9/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=prlENUva3obF1a7f-0)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout desejado do desafio através [DESSE LINK]([https://www.figma.com/file/BiNZdeWaBS8aBI9N86cBAh/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=BLsvuBf63twO8cDn-0](https://www.figma.com/file/mcrmvyN3l9CNcuRRY6ivi9/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=prlENUva3obF1a7f-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
